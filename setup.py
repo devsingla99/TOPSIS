@@ -7,7 +7,7 @@ setup(
   description = 'TOPSIS PROGRAM',   # Give a short description about your library
   author = 'DEVANSHU SINGLA',                   # Type in your name
   author_email = 'devanshusingla99@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
+  url = 'https://github.com/devsingla99/TOPSIS',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/devsingla99/TOPSIS/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
